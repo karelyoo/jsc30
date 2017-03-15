@@ -1,0 +1,23 @@
+  body{
+    background: url('http://1.bp.blogspot.com/-URmDq50yprs/UB4Z-4cXrEI/AAAAAAAAOiU/OWNH_wygHfY/s1600/Baby%20frames%2013_33.png');
+    background-size: 100% 100%;
+  }
+
+  html {
+    color:black;
+    font-family: sans-serif;
+  }
+
+  .hero {
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+  }
+
+
+  h1 {
+    text-shadow: 10px 10px 0 rgba(0,0,0,1);
+    font-size: 100px;
+  }
